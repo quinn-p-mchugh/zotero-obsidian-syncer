@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/quinn-p-mchugh/cookiecutter-python",
+  "commit": "33f2513e7ec9228360a4ac633adc9d66bea957ea",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Quinn McHugh",
+      "author_email": "qpmchugh@gmail.com",
+      "github_username": "quinn-p-mchugh",
+      "project_name": "Zotero Obsidian Syncer",
+      "project_slug": "zotero-obsidian-syncer",
+      "package_name": "zotero_obsidian_syncer",
+      "project_short_description": "Syncs Zotero thing",
+      "_template": "https://github.com/quinn-p-mchugh/cookiecutter-python"
+    }
+  },
+  "directory": null
+}
